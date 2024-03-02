@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @NehanshuSurkar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter,AI,WebD
-- 💞️ I’m looking to collaborate on many projrcts 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on many projects 
 
 <!---
 NehanshuSurkar/NehanshuSurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
