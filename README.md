@@ -1,13 +1,8 @@
-- 💻 I have worked on project "RevvAI", it is the mobile application which can be used for academic revision by 11th/12th students.
-- 💻 A Gym Management APP, including functionalities like fee payments, attendance management, diet plan, fitness blog, etc. for users as well as Gym Owners.
-- 💻 
-
-
 #  Hello, I'm Nehanshu Surkar  
 
- Flutter Developer | Backend Learner | ML Explorer  
+ Flutter Developer | ML Explorer  
 
-I build apps that actually solve problems — not just tutorials.  
+I build apps that actually solve problems.  
 Currently focused on **Flutter + FastAPI + Machine Learning** and improving problem-solving skills.
 
 ---
