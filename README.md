@@ -30,14 +30,14 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 
 ###  Machine Learning
 ![ML](https://img.shields.io/badge/Machine%20Learning-grey)
-![SVM](https://img.shields.io/badge/SVM-lightgrey)
-![RandomForest](https://img.shields.io/badge/RandomForest-darkgreen)
+![ANN](https://img.shields.io/badge/ANN-lightgrey)
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
--  Advanced Flutter (Riverpod, Clean Architecture, MVVM)  
+-  Flutter
+-  DSA  
 -  Backend development with FastAPI  
 -  Real-world Machine Learning projects  
 
@@ -47,12 +47,18 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 
 ###  FitLife - Gym Management App  
 > User + Admin system with API integration  
-- Flutter + Backend API  
+- Flutter + RESTFul API  
 
 ###  AlCuRithm
 > An AI driven LCA tool for metals
 > Calculates Life Cycle assessment for metals based on ISO Standards
 - Flutter + API
+
+---
+###  AfterCall
+> Smart Post-Call Summarizer
+> Provides summaries of call/voice recordings with important deadlines and action points
+- Flutter + ElevenLabs + Speech-to-Text
 
 ---
 
@@ -63,7 +69,7 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 
 ---
 
-##  Connect With Me
+##  Curious to connect with curious minds and learn together
 
 -  nehanshsurkar77@gmail.com  
 -  www.linkedin.com/in/nehanshu-surkar-3b5bb4266  
