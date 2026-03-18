@@ -39,7 +39,8 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 -  Flutter
 -  DSA  
 -  Backend development with FastAPI  
--  Real-world Machine Learning projects  
+-  Machine Learning
+-  AI Tools
 
 ---
 
