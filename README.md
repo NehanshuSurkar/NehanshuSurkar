@@ -55,7 +55,7 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 > Calculates Life Cycle assessment for metals based on ISO Standards
 - Flutter + API
 
----
+
 ###  AfterCall
 > Smart Post-Call Summarizer
 > Provides summaries of call/voice recordings with important deadlines and action points
@@ -64,11 +64,6 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 ---
 
 
-##  Coding Profiles
-
-- 🟡 LeetCode ([[https://leetcode.com/u/Nehanshu_Surkar/])
-
----
 
 ##  Curious to connect with curious minds and learn together
 
