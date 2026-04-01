@@ -11,8 +11,8 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 
 -  Building real-world Flutter apps  
 -  Learning backend with FastAPI  
--  Exploring Machine Learning practically  
--  Practicing DSA regularly  
+-  Exploring Machine Learning  
+-  Practicing DSA  
 -  Goal: Become a strong full-stack + ML engineer  
 
 ---
