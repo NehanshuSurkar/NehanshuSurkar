@@ -30,7 +30,7 @@ Currently focused on **Flutter + FastAPI + Machine Learning** and improving prob
 
 ###  Machine Learning
 ![ML](https://img.shields.io/badge/Machine%20Learning-grey)
-![ANN](https://img.shields.io/badge/ANN-lightgrey)
+![CNN](https://img.shields.io/badge/CNN-grey)
 
 ---
 
